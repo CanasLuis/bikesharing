@@ -35,3 +35,6 @@ Finally, the subscribers take more rides than normal customers, except for "unkn
 ##Summary
 knowing our market is vital for making our business grow, we have a lot of useful information and we can take decisions easily according to it. I would accept the investment since it is a reliable business that can expect constant growth if the right choices are made. 
 
+
+
+LINK TO TABLEAU: https://public.tableau.com/app/profile/luis.canas/viz/Challenge14_16650367545880/Historia1?publish=yes
